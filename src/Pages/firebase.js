@@ -3,12 +3,13 @@ import {getAuth}  from 'firebase/auth'
   
 const firebaseConfig = { 
     
-    apiKey: "AIzaSyCV6JLuvHG8NaHjw0lBdmsMe9wCM8WdYsA",
-    authDomain: "avine-68492.firebaseapp.com",
-    projectId: "avine-68492",
-    storageBucket: "avine-68492.appspot.com",
-    messagingSenderId: "1031821909856",
-    appId: "1:1031821909856:web:2ee576bb7db6a64c128805"
+  apiKey: "AIzaSyA6rIYRuAZY8_ez71pPFPb84294NOumC_U",
+  authDomain: "avine-eeffd.firebaseapp.com",
+  projectId: "avine-eeffd",
+  storageBucket: "avine-eeffd.appspot.com",
+  messagingSenderId: "125952676678",
+  appId: "1:125952676678:web:6bb2fef234025a61f5cb47",
+  measurementId: "G-54HTRESC38"
 
 }; 
   
